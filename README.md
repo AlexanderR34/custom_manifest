@@ -1,5 +1,3 @@
-# PixelOS
-
 ## Getting Started
 
 To get started with the PixelOS source code, you'll need to be
@@ -8,7 +6,7 @@ familiar with [Git and Repo](https://source.android.com/setup/build/downloading)
 To initialize your local repository, run:
 
 ```bash
-repo init -u https://github.com/PixelOS-AOSP/android_manifest.git -b seventeen --git-lfs
+repo init -u https://github.com/AlexanderR34/custom_manifest.git -b seventeen --git-lfs
 ```
 
 Then, sync the repository:
