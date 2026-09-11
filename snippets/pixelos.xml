@@ -53,7 +53,7 @@
   <project path="packages/apps/DolbyAtmos" name="AlexanderR34/Lunaris_dolby" remote="github" revision="main" />
   <project path="packages/apps/ColumbusService" name="PixelOS-AOSP/android_packages_apps_ColumbusService" remote="github" />
   <project path="packages/modules/adb" name="PixelOS-AOSP/android_packages_modules_adb" groups="pdk" remote="github" />
-  <project path="packages/modules/Bluetooth" name="AlexanderR34/custom_packages_modules_Bluetooth" groups="pdk" remote="github" />
+  <project path="packages/modules/Bluetooth" name="AlexanderR34/custom_packages_modules_Bluetooth" groups="pdk" remote="github" revision="seventeen" />
   <project path="packages/modules/Connectivity" name="PixelOS-AOSP/android_packages_modules_Connectivity" groups="pdk-cw-fs,pdk-fs" remote="github" />
   <project path="packages/modules/Nfc" name="PixelOS-AOSP/android_packages_modules_Nfc" groups="pdk-cw-fs,pdk-fs" remote="github" />
   <project path="packages/modules/Permission" name="AlexanderR34/custom_packages_modules_Permission" groups="pdk-cw-fs,pdk-fs" remote="github" />
