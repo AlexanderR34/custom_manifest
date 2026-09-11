@@ -56,7 +56,7 @@
   <project path="packages/modules/Bluetooth" name="AlexanderR34/custom_packages_modules_Bluetooth" groups="pdk" remote="github" />
   <project path="packages/modules/Connectivity" name="PixelOS-AOSP/android_packages_modules_Connectivity" groups="pdk-cw-fs,pdk-fs" remote="github" />
   <project path="packages/modules/Nfc" name="PixelOS-AOSP/android_packages_modules_Nfc" groups="pdk-cw-fs,pdk-fs" remote="github" />
-  <project path="packages/modules/Permission" name="PixelOS-AOSP/android_packages_modules_Permission" groups="pdk-cw-fs,pdk-fs" remote="github" />
+  <project path="packages/modules/Permission" name="AlexanderR34/custom_packages_modules_Permission" groups="pdk-cw-fs,pdk-fs" remote="github" />
   <project path="packages/modules/UprobeStats" name="PixelOS-AOSP/android_packages_modules_UprobeStats" groups="pdk-cw-fs,pdk-fs" remote="github" />
   <project path="packages/modules/Uwb" name="PixelOS-AOSP/android_packages_modules_Uwb" groups="pdk-cw-fs,pdk-fs" remote="github" />
   <project path="packages/modules/Wifi" name="PixelOS-AOSP/android_packages_modules_Wifi" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="github" />
