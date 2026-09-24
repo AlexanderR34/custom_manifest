@@ -51,7 +51,6 @@
   <project path="packages/apps/TV" name="PixelOS-AOSP/android_packages_apps_TV" groups="pdk" remote="github" />
   <project path="packages/apps/Updater" name="AlexanderR34/custom_packages_apps_Updater" remote="github" revision="seventeen" />
   <project path="packages/apps/ColumbusService" name="PixelOS-AOSP/android_packages_apps_ColumbusService" remote="github" />
-  <project path="packages/apps/GamingSidebar" name="AlexanderR34/custom_packages_apps_GamingSidebar" remote="github" revision="seventeen" />
   <project path="packages/apps/LMOFreeform" name="AlexanderR34/custom_packages_apps_LMOFreeform" remote="github" revision="seventeen" />
   <project path="packages/modules/adb" name="PixelOS-AOSP/android_packages_modules_adb" groups="pdk" remote="github" />
   <project path="packages/modules/Bluetooth" name="AlexanderR34/custom_packages_modules_Bluetooth" groups="pdk" remote="github" revision="seventeen" />
