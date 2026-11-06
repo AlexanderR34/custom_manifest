@@ -56,7 +56,6 @@
   <project path="packages/apps/LMOFreeform" name="AlexanderR34/diva_packages_apps_LMOFreeform" remote="github" revision="seventeen" />
   <project path="packages/apps/GameSpace" name="AlexanderR34/diva_apps_GameSpace" remote="github" revision="seventeen" />
   <project path="packages/apps/DocumentViewer" name="AlexanderR34/diva_packages_apps_DocumentViewer" remote="github" revision="seventeen" />
-  <project path="packages/apps/SettingsIntelligence" name="AlexanderR34/diva_packages_apps_SettingsIntelligence" remote="github" revision="seventeen" />
   <project path="packages/modules/adb" name="PixelOS-AOSP/android_packages_modules_adb" groups="pdk" remote="github" />
   <project path="packages/modules/Bluetooth" name="AlexanderR34/diva_packages_modules_Bluetooth" groups="pdk" remote="github" revision="seventeen" />
   <project path="packages/modules/Connectivity" name="PixelOS-AOSP/android_packages_modules_Connectivity" groups="pdk-cw-fs,pdk-fs" remote="github" />
