@@ -60,6 +60,14 @@
   <project path="packages/apps/LMOFreeform" name="AlexanderR34/diva_packages_apps_LMOFreeform" remote="github" revision="seventeen" />
   <project path="packages/apps/GameSpace" name="AlexanderR34/diva_apps_GameSpace" remote="github" revision="seventeen" />
   <project path="packages/apps/DocumentViewer" name="AlexanderR34/diva_packages_apps_DocumentViewer" remote="github" revision="seventeen" />
+  <project path="packages/apps/ExactCalculator" name="LineageOS/android_packages_apps_ExactCalculator" remote="lineageos" revision="lineage-24.0" />
+  <project path="packages/apps/Etar" name="LineageOS/android_packages_apps_Etar" remote="lineageos" revision="lineage-24.0" />
+  <project path="packages/apps/Jelly" name="LineageOS/android_packages_apps_Jelly" remote="lineageos" revision="lineage-24.0" />
+  <project path="packages/apps/Glimpse" name="LineageOS/android_packages_apps_Glimpse" remote="lineageos" revision="lineage-24.0" />
+  <project path="packages/apps/Dialer" name="ProjectInfinity-X/packages_apps_Dialer" remote="github" revision="17" />
+  <project path="packages/apps/Contacts" name="ProjectInfinity-X/packages_apps_Contacts" remote="github" revision="17" />
+  <project path="packages/apps/Messaging" name="ProjectInfinity-X/packages_apps_Messaging" remote="github" revision="17" />
+  <project path="packages/services/OmniJaws" name="ProjectInfinity-X/packages_services_OmniJaws" remote="github" revision="17" />
   <project path="packages/modules/adb" name="PixelOS-AOSP/android_packages_modules_adb" groups="pdk" remote="github" />
   <project path="packages/modules/Bluetooth" name="AlexanderR34/diva_packages_modules_Bluetooth" groups="pdk" remote="github" revision="seventeen" />
   <project path="packages/modules/Connectivity" name="PixelOS-AOSP/android_packages_modules_Connectivity" groups="pdk-cw-fs,pdk-fs" remote="github" />
